@@ -1,3 +1,28 @@
+# fat-reducing-recipe
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
 # Fat-reducing-recipe
 减脂菜谱
 
@@ -28,3 +53,4 @@
 - 每天记录体重
 - 太晚了就不要吃东西，对牙齿不好，对身体亦是负担
 - 坚持一个月以上
+
