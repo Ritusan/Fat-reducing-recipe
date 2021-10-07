@@ -28,7 +28,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## 早餐
 
-- 三明治🥪/厚蛋烧/蔬菜卷饼
+- 三明治🥪/厚蛋烧/蔬菜卷饼/全麦吐司
 - 黑咖啡/拿铁☕️
 
 ## 午餐
