@@ -53,4 +53,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - 每天记录体重
 - 太晚了就不要吃东西，对牙齿不好，对身体亦是负担
 - 坚持一个月以上
+- 多喝水，促进新陈代谢
 
